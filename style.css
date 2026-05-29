@@ -685,4 +685,5 @@ footer {
   .why-grid { grid-template-columns: 1fr; }
   .steps-track { flex-direction: column; gap: 2rem; }
   .steps-track::before { display: none; }
-}
+               }
+  
